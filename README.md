@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zea-Zee&theme=default&show_icons=true" alt="Anurag's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zea-Zee&langs_count=8&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zea-Zee&langs_count=10&layout=compact" alt="Top Langs">
 </p>
 
 <h3 align="center">My current Stack</h3>
