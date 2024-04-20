@@ -33,56 +33,52 @@
     </a>
 </p>
 
-<h2>GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zea-Zee&theme=default&show_icons=true" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zea-Zee&langs_count=8&layout=compact" alt="Top Langs">
+</p>
 
-<img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zea-Zee&theme=2077"
-    alt="GitHub stats card"
-    title="GitHub stats card">
-<img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zea-Zee&theme=2077"
-    alt="Top languages in commits card"
-    title="Top languages in commits card">
+<h3 align="center">My current Stack</h3>
 
+<p align="center">
+  <h5>Python:</h5>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=000" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&labelColor=000" alt="Django">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&labelColor=000" alt="Flask">
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&labelColor=000" alt="SQLite">
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&labelColor=000" alt="Redis">
 
+  <h5>ML:</h5>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&labelColor=000" alt="Pandas">
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&labelColor=000" alt="Numpy">
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=000" alt="PyTorch">
+  <img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&labelColor=000" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/roboflow-FA9429?style=for-the-badge&logo=roboflow&labelColor=000" alt="Roboflow">
+  <img src="https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&labelColor=000" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=seaborn&labelColor=000" alt="Seaborn">
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&labelColor=000" alt="OpenCV">
 
+  <h5>JavaScript:</h5>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=000" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=000" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebars&labelColor=000" alt="Handlebars">
 
-<h3>Things I code with</h3>
+  <h5>C++:</h5>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=000" alt="C++">
+  <img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&labelColor=000" alt="Boost">
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&labelColor=000" alt="CMake">
+  <img src="https://img.shields.io/badge/Google_Test-4285F4?style=for-the-badge&logo=google-test&labelColor=000" alt="Google Test">
+  <img src="https://img.shields.io/badge/Assembler-6E4C13?style=for-the-badge&logo=assemblyscript&labelColor=000" alt="Assembler">
 
-### My stack:
+  <h5>Haskell:</h5>
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&labelColor=000" alt="Haskell">
 
-#### Python:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=000)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&labelColor=000)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&labelColor=000)
-![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&labelColor=000)
-![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&labelColor=000)
-
-#### ML:
-![Static Badge](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&labelColor=000)
-![Static Badge](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&labelColor=000)
-![Static Badge](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=000)
-![Static Badge](https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&labelColor=000)
-![Static Badge](https://img.shields.io/badge/roboflow-FA9429?style=for-the-badge&logo=roboflow&labelColor=000)
-![Static Badge](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&labelColor=000)
-![Static Badge](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=seaborn&labelColor=000)
-![Static Badge](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&labelColor=000)
-
-#### JavaScript:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=000)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=000)
-![Handlebars](https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebars&labelColor=000)
-
-#### C++:
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=000)
-![Boost](https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&labelColor=000)
-
-#### Haskell:
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&labelColor=000)
-
-#### DevOps:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=000)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&labelColor=000)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&labelColor=000)
+  <h5>DevOps:</h5>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=000" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=000" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&labelColor=000" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&labelColor=000" alt="Terminal">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&labelColor=000" alt="Nginx">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&labelColor=000" alt="Postman">
+</p>
