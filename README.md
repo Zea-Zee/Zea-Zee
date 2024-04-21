@@ -98,5 +98,5 @@
   <img src="https://www.codewars.com/users/Zean/badges/large" alt="codewars.com/users/Zean">
 </p>
 <p align="center">
-  <img src="https://leetcode.com/Zean4/leetcode-badge/" alt="leetcode.com/Zean4">
+  [![LeetCode user Zean4](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FZean4&logo=leetcode&logoColor=yellow)](https://leetcode.com/Zean4/)
 </p>
