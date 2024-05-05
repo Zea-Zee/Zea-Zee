@@ -31,14 +31,23 @@
             title="GMail"
             alt="GMail">
     </a>
+    <a target="_blank" style="text-decoration: none;" href="https://leetcode.com/Zean4/">
+        <img
+            src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FZean4&logo=leetcode&logoColor=yellow"
+            title="LeetCode"
+            alt="LeetCode">
+    </a>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zea-Zee&theme=default&show_icons=true" alt="Anurag's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zea-Zee&langs_count=10&layout=compact" alt="Top Langs">
 </p>
 
-<h3 align="center">My current Stack</h3>
+| <a href="https://github.com/Zea-Zee/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zea-Zee&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Zea-Zee/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zea-Zee&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
+
+<h3 align="center">Technologies I Use</h3>
 
 <p align="center">
   <h5>Python:</h5>
@@ -91,12 +100,4 @@
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&labelColor=000" alt="Nginx">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&labelColor=000" alt="Postman">
   </p>
-</p>
-
-
-  <img src="https://www.codewars.com/users/Zean/badges/large" alt="codewars.com/users/Zean">
-
-<p align='center'>
-
-[![LeetCode user Zean4](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FZean4&logo=leetcode&logoColor=yellow)](https://leetcode.com/Zean4/)
 </p>
