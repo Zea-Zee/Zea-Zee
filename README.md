@@ -39,18 +39,13 @@
     </a>
 </p>
 
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zea-Zee&theme=default&show_icons=true" alt="Anurag's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zea-Zee&langs_count=10&layout=compact" alt="Top Langs">
-</p>
-
 | <a href="https://github.com/Zea-Zee/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zea-Zee&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Zea-Zee/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zea-Zee&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- | -->
+| ------------- | ------------- |
 
 <h3 align="center">Technologies I Use</h3>
 
 <p align="center">
-  <h5>Python:</h5>
+  <h5>Backend:</h5>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=000" alt="Python">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&labelColor=000" alt="Django">
@@ -59,7 +54,7 @@
     <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&labelColor=000" alt="Redis">
   </p>
 
-  <h5>ML:</h5>
+  <h5>ML / DS / CV:</h5>
   <p>
     <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&labelColor=000" alt="Pandas">
     <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&labelColor=000" alt="Numpy">
@@ -71,15 +66,15 @@
     <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&labelColor=000" alt="OpenCV">
   </p>
 
-  <h5>JavaScript:</h5>
+  <h5>Frontend:</h5>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=000" alt="JavaScript">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&labelColor=000" alt="Node.js">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=000" alt="MongoDB">
-    <img src="https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebars&labelColor=000" alt="Handlebars">
+    <!--<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=000" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebars&labelColor=000" alt="Handlebars">-->
   </p>
 
-  <h5>C++:</h5>
+  <h5>Preformace:</h5>
   <p>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=000" alt="C++">
     <img src="https://img.shields.io/badge/Boost-00599C?style=for-the-badge&logo=boost&labelColor=000" alt="Boost">
@@ -88,7 +83,7 @@
     <img src="https://img.shields.io/badge/Assembler-6E4C13?style=for-the-badge&logo=assemblyscript&labelColor=000" alt="Assembler">
   </p>
 
-  <h5>Haskell:</h5>
+  <h5>Clownism:</h5>
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&labelColor=000" alt="Haskell">
 
   <h5>DevOps:</h5>
